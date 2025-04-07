@@ -11,6 +11,8 @@ public class GitBranchesApplication {
 		int y=0;
 		int z=20;
 		float a=1.6f;
+		String="hello";
+		String="world";
 		SpringApplication.run(GitBranchesApplication.class, args);
 	}
 
