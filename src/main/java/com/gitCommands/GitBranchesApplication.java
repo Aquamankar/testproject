@@ -12,6 +12,7 @@ public class GitBranchesApplication {
 		int z=20;
 		float a=1.6f;
 		String="hello";
+		char="A";//stash
 		
 		SpringApplication.run(GitBranchesApplication.class, args);
 	}
